@@ -1,0 +1,270 @@
+LOG DE INTERAÇÕES COM IA — PROJETO N1 Ta No prazo
+
+Data: 28/09/2026
+
+============================================================ INTERAÇÃO 1
+— DEFINIÇÃO DA IDEIA DO PROJETO
+============================================================
+
+USUÁRIO: Para a N1: Um Power Point com a apresentação da Ideia do
+Projeto, com no mínimo a declaração do: 1. PROBLEMA 2. NICHO 3. IDEIA
+(SOLUÇÃO) 4. PROPOSTA DE VALOR
+
+Podem ser apresentados outros aspectos do projeto.
+
+Um documento .txt com o log das interações com a IA, caso tenha sido
+usada no processo de criação.
+
+Informações fornecidas: 1- produtos indo fora sem vender por ficar fora
+da validade
+
+2- donos de mercados
+
+3- produzir um app capaz de anunciar produtos que estão com a validade
+próxima e ser capaz de ser acesso por usuários para comprar pequenas e
+grandes quantidades de produtos prestes a vencer
+
+4- evitar o desperdício de alimento no mundo, economizar o dinheiro do
+comerciante e fazer o comprador ter desconto
+
+IA: Foi organizada a ideia nos quatro pontos exigidos pela N1:
+
+1.  PROBLEMA
+
+-   Produtos alimentícios acabam sendo descartados por estarem próximos
+    da data de validade.
+-   Mercados sofrem prejuízos financeiros com produtos que não conseguem
+    vender a tempo.
+-   Alimentos que ainda estão próprios para consumo acabam sendo
+    desperdiçados.
+-   Consumidores deixam de ter acesso a esses produtos por preços mais
+    baixos.
+
+2.  NICHO
+
+-   Pequenos, médios e grandes mercados.
+-   Comerciantes que possuem produtos próximos da validade.
+-   Consumidores interessados em comprar produtos com desconto.
+-   Pessoas e famílias que buscam economizar nas compras.
+
+3.  IDEIA / SOLUÇÃO Criar um aplicativo que conecte mercados e
+    consumidores, permitindo que os estabelecimentos anunciem produtos
+    que estão próximos da validade com preços reduzidos.
+
+O aplicativo permitirá: - Cadastro dos produtos próximos da validade. -
+Divulgação do produto com desconto. - Compra de pequenas ou grandes
+quantidades. - Visualização dos produtos disponíveis próximos ao
+consumidor. - Redução do desperdício de alimentos. - Recuperação de
+parte do dinheiro investido pelo comerciante.
+
+4.  PROPOSTA DE VALOR
+
+Para os mercados: - Reduzir perdas de produtos próximos da validade. -
+Recuperar parte do valor de produtos que poderiam ser descartados. -
+Atrair novos clientes para o estabelecimento.
+
+Para os consumidores: - Comprar produtos com preços mais baixos. -
+Economizar nas compras. - Encontrar ofertas de produtos próximos da
+validade de forma prática.
+
+Para a sociedade: - Diminuir o desperdício de alimentos. - Aproveitar
+melhor produtos que ainda podem ser consumidos com segurança. -
+Contribuir para um consumo mais consciente.
+
+Também foram sugeridos nomes para o p	rojeto, incluindo: - ValiPreço -
+Perto do Vencimento - Última Chance - ValiSave - EcoValidade - Desconto
+Válido - SalvaFood - Venceu? Não! - ValiMarket - Aproveita+
+
+============================================================ INTERAÇÃO 2
+— SOLICITAÇÃO DO POWERPOINT
+============================================================
+
+USUÁRIO: Monte o PowerPoint inteiro, slide por slide, já com os textos
+prontos para copiar.
+
+IA: Foi elaborado um roteiro completo com 10 slides:
+
+SLIDE 1 — CAPA Ta no Prazo Tecnologia contra o desperdício de alimentos
+
+Projeto de aplicativo para venda de produtos próximos da validade
+
+Integrantes: 
+Cauã Pereira de Campos
+Felipe Martini
+Andre Monteiro
+Lucas Rodrigues de Freitas
+
+Disciplina: Projeto Multidisciplinar Integrador I
+
+SLIDE 2 — O PROBLEMA Produtos sendo desperdiçados
+
+-   Produtos alimentícios acabam sendo descartados por estarem próximos
+    da data de validade.
+-   Mercados sofrem prejuízos financeiros com produtos que não conseguem
+    vender a tempo.
+-   Alimentos que ainda podem ser consumidos acabam sendo desperdiçados.
+-   Consumidores deixam de ter acesso a esses produtos por preços mais
+    baixos.
+Hoje temos uma grande quantidade de alimentos desperdiçados por conta de
+ um mau gerenciamento ou da falta dele, especialmente de produtos próximos
+ às datas de vencimento que não foram vendidos e são descartados, gerando
+ cerca de R$ 7,6 bilhões por ano em alimentos em condições de consumo.
+
+Além do prejuízo gerado aos mercados, o impacto ambiental do desperdício de
+alimentos nos supermercados é devastador. Quando um alimento vence e vai
+para o lixo, todo o carbono, a água e a terra utilizados para produzi-lo
+são completamente desperdiçados, além de gerar poluição direta durante o
+descarte.
+
+Problema central: Como reduzir o desperdício e, ao mesmo tempo, ajudar
+os mercados a recuperar parte do dinheiro investido nesses produtos?
+
+SLIDE 3 — O NICHO Para quem é a solução?
+
+Comerciantes: - Pequenos mercados; - Supermercados; - Mercados de
+bairro; - Outros estabelecimentos que comercializam alimentos.
+
+Consumidores: - Pessoas que procuram produtos mais baratos; - Famílias
+que desejam economizar; - Consumidores interessados em aproveitar
+ofertas; - Pessoas que compram pequenas ou grandes quantidades.
+
+A solução abrange um público vasto e pode atender a grandes e pequenos
+mercados, padarias, restaurantes e clientes. Acreditamos que nossa solução
+pode atender a uma grande quantidade de pessoas. Porém, nossa solução está
+sendo desenvolvida em etapas e, nesta etapa, o foco é atender ao nicho de
+mercados e consumidores.
+
+O projeto pretende desenvolver um produto adequado para atender a esse nicho
+e, nas próximas etapas, com o feedback e a evolução do projeto, expandir sua
+atuação com um produto validado e consolidado.
+
+SLIDE 4 — A IDEIA Um aplicativo que conecta mercados e consumidores
+
+O Ta no Prazo será um aplicativo onde os estabelecimentos poderão
+anunciar produtos que estão próximos da validade oferecendo descontos
+especiais.
+
+Os consumidores poderão visualizar os produtos disponíveis, conferir os
+descontos e realizar a compra de acordo com suas necessidades.
+
+Mercado → anuncia o produto → consumidor encontra a oferta → compra com
+desconto
+
+Nossa proposta é um aplicativo que terá duas formas de acesso: Mercados
+e Consumidores. Cada um terá funções diferentes ao acessar o aplicativo.
+
+Mercados: Este usuário utilizará o acesso de vendedor, que possuirá diversas
+funções voltadas para esse perfil. Ele poderá cadastrar o perfil do seu
+mercado, cadastrar produtos próximos da validade ou que não foram vendidos,
+anunciar esses produtos cadastrados com descontos e visualizar os produtos
+cadastrados e suas respectivas validades.
+
+Consumidores: O consumidor poderá criar um usuário para pesquisar produtos
+com bons descontos, salvar produtos no seu carrinho e acessar informações
+dos mercados, como localização, produtos disponíveis, horário de funcionamento,
+formas de contato, entre outras. Além disso, poderá selecionar produtos
+em grandes ou pequenas quantidades.
+
+SLIDE 5 — COMO FUNCIONARÁ? Passo a passo
+
+1.  Mercado cadastra o produto O comerciante informa o produto,
+    quantidade, validade e preço.
+
+2.  Mercado define o desconto O estabelecimento determina o valor
+    promocional.
+
+3.  Produto é anunciado no aplicativo Os consumidores próximos podem
+    visualizar a oferta.
+
+4.  Consumidor realiza a compra Pode comprar pequenas ou grandes
+    quantidades.
+
+5.  Produto é retirado ou entregue De acordo com as opções
+    disponibilizadas pelo estabelecimento.
+
+
+
+SLIDE 6 — PROPOSTA DE VALOR Benefícios para todos
+
+Para o comerciante: Reduzir perdas e recuperar parte do dinheiro
+investido em produtos que poderiam ser descartados.
+
+Para o consumidor: Comprar produtos com preços mais baixos e economizar
+nas compras.
+
+Para o meio ambiente: Contribuir para a redução do desperdício de
+alimentos.
+
+Para a sociedade: Estimular um consumo mais consciente e o melhor
+aproveitamento dos alimentos.
+
+SLIDE 7 — DIFERENCIAL DA SOLUÇÃO Por que o aplicativo seria útil?
+
+-   Ofertas de produtos próximos da validade;
+-   Descontos definidos pelos próprios estabelecimentos;
+-   Possibilidade de comprar pequenas ou grandes quantidades;
+-   Facilidade para encontrar ofertas;
+-   Benefícios financeiros para consumidores e comerciantes;
+-   Contribuição para a redução do desperdício.
+
+A junção entre a necessidade dos mercados de vender seus produtos
+e a busca por economia dos consumidores. Nosso aplicativo reúne
+diferentes problemas em uma única solução. Além de gerar economia
+para mercados e consumidores, contribui para a redução do desperdício
+de alimentos e, consequentemente, para a diminuição dos impactos
+ambientais causados pelo descarte.
+
+SLIDE 8 — IMPACTO ESPERADO Transformando desperdício em oportunidade
+
+-   Reduzir o desperdício de alimentos.
+-   Diminuir prejuízos dos mercados.
+-   Oferecer economia aos consumidores.
+-   Incentivar o consumo consciente.
+
+Objetivo: Evitar que alimentos sejam desperdiçados quando ainda podem
+ser aproveitados, beneficiando comerciantes, consumidores e a sociedade.
+
+SLIDE 9 — VISÃO DO PROJETO Onde queremos chegar?
+
+Criar uma plataforma que se torne uma ponte entre estabelecimentos com
+produtos próximos da validade e consumidores em busca de economia.
+
+Possíveis funcionalidades futuras: - Sistema de localização; -
+Notificações de novas ofertas; - Filtros por categoria e preço; -
+Avaliação dos estabelecimentos; - Histórico de compras; - Sistema de
+pagamento integrado; - Relatórios de redução de desperdício para os
+mercados.
+
+SLIDE 10 — ENCERRAMENTO Ta no Prazo
+Menos desperdício. Mais economia.
+
+Uma solução tecnológica para transformar produtos próximos da validade
+em oportunidades para comerciantes e consumidores.
+
+Obrigado!
+
+============================================================ INTERAÇÃO 3
+— CRIAÇÃO DO ARQUIVO POWERPOINT
+============================================================
+
+USUÁRIO: Agora, Produza o slide da mesma forma que foi citado por você o passo a passo
+
+IA: Foi criado um arquivo PowerPoint completo com 10 slides, contendo: -
+Capa; - Problema; - Nicho; - Ideia/Solução; - Funcionamento; - Proposta
+de Valor; - Diferenciais; - Impacto Esperado; - Visão do Projeto; -
+Encerramento.
+
+Nome do arquivo gerado: Ta no Prazo.pptx
+
+============================================================ INTERAÇÃO 4
+— SOLICITAÇÃO DO LOG
+============================================================
+
+USUÁRIO: Agora faça o arquivo txt do log das nossas conversas.
+
+IA: Este arquivo foi criado para registrar as interações utilizadas na
+elaboração do projeto N1 do Ta no prazo, incluindo as informações
+fornecidas pelo usuário, a organização da ideia pela IA, a elaboração
+dos slides e a criação do PowerPoint.
+
+FIM DO LOG

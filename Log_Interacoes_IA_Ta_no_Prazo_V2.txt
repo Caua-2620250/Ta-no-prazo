@@ -1,0 +1,93 @@
+LOG DE INTERAÇÕES COM IA — PROJETO Ta no Prazo
+
+Data: 28/09/2026
+
+============================================================ INTERAÇÃO 1
+— DEFINIÇÃO DA IDEIA DO PROJETO
+============================================================
+
+USUÁRIO: Para a N1: Um Power Point com a apresentação da Ideia do
+Projeto, com no mínimo a declaração do: 1. PROBLEMA 2. NICHO 3. IDEIA
+(SOLUÇÃO) 4. PROPOSTA DE VALOR
+
+Podem ser apresentados outros aspectos do projeto.
+
+Um documento .txt com o log das interações com a IA, caso tenha sido
+usada no processo de criação.
+
+================================================================================
+LOG DE INTERAÇÕES - PROJETO TA NO PRAZO
+================================================================================
+
+[INTERAÇÃO 1]
+- Solicitante: Usuário
+- Mensagem:
+  "chat, estamos realizando um trabalho de faculdade para apresentar nossa proposta
+  para a solução do problema que é o disperdicio de alimentos gerado por produtos
+  que não vendem e passam da validade. O projeto vai ser um aplicativo que os
+  mercados vao poder cadastrar e postar os produtos com desconto, e os clientes
+  vao poder comprar, retirada e pagamento diratamente com o mercado.
+
+  Vou encaminhar 2 arquivos, um deles gostamos muito do desing e o outro contem
+  nossas informações sobre o projeto. Então, quero que crie um novo pdf pra
+  apresentar podermos apresentar o projeto na aula, quero que pegue o desing de
+  um e as informações do outro para criar um novo documento. O do desing, não
+  quero que pegue as informações, somente o desing, o arquivo das informações,
+  deve se basear nele para preencher e criar os gráficos, queremos gráficos e
+  algo bonito.
+
+  Arquivo para se basear no desing: Apresentação do Projeto - Plataforma de Produtos Próximos do Vencimento
+  Arquivo para pegar as informações: Ta no Prazo.pdf
+
+  Gere esse novo pdf"
+
+- Ação do Assistente:
+  Criação e compilação do arquivo PDF "ta-no-prazo-apresentacao.pdf" combinando
+  o layout estruturado de cartões/gráficos com todo o conteúdo informativo do
+  projeto "Ta no Prazo".
+
+--------------------------------------------------------------------------------
+
+[INTERAÇÃO 2]
+- Solicitante: Usuário
+- Mensagem:
+  "Cade o arquivo que gerou? o resultado do que pedi?"
+
+- Resposta do Assistente:
+  Apresentação detalhada da estrutura e conteúdo dos 7 slides do PDF
+  "ta-no-prazo-apresentacao.pdf" gerado e disponibilizado no painel Studio.
+
+--------------------------------------------------------------------------------
+
+[INTERAÇÃO 3]
+- Solicitante: Usuário
+- Mensagem:
+  "Certo, quero alterações, não gostei da primeira barra verde em cada slide, a que
+  fica no topo. Ficou um espaço grande em branco vazio também. Então quero que
+  gere uma apresentação nova, lembrando de usar as informações do pdf: Ta no Prazo.
+
+  Gere um novo usando as cores verde e verde escuro, e as demais que combinar, não
+  precisa ser exatamente o layout do outro pdf, quero que crie uma apresentação
+  nova, mas seguindo as cores, com imagens e gráficos e as informações do pdf solicitado"
+
+- Ação do Assistente:
+  Reformulação completa da apresentação e publicação da versão v2
+  ("ta-no-prazo-apresentacao-v2.pdf").
+  Alterações aplicadas:
+  1. Remoção da barra verde do topo dos slides.
+  2. Redesenho do layout com cartões, estatísticas e tabelas preenchendo melhor
+     os espaços em branco.
+  3. Paleta baseada em tons de verde e verde escuro com elementos complementares.
+  4. Inclusão dos gráficos de categorias e evolução de adoção.
+
+--------------------------------------------------------------------------------
+
+[INTERAÇÃO 4]
+- Solicitante: Usuário
+- Mensagem:
+  "Chat, quero que gere um arquivo .txt com o log das nossas interações"
+
+- Ação do Assistente:
+  Geração do arquivo "log-interacoes.txt" com o histórico completo do diálogo
+  e entrega no painel Studio.
+================================================================================
